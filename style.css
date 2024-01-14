@@ -4,7 +4,7 @@
  }
 
  body{
- 	background:url("../images/bg.jpg");
+ 	background:url("bg.jpg");
 	
 	background-color: #aae7f1;
  	background-size: cover;
@@ -25,7 +25,7 @@
 }
 
  .bird{
- 	background:url("../images/bird.png");
+ 	background:url("bird.png");
  	width: 130px;
  	height: 175px;
  	position: absolute;
